@@ -1,0 +1,10 @@
+C:\Users\sergey.markevich\source\repos\1234\1234\bin\Debug\1234.exe.config
+C:\Users\sergey.markevich\source\repos\1234\1234\bin\Debug\1234.exe
+C:\Users\sergey.markevich\source\repos\1234\1234\bin\Debug\1234.pdb
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\_1234.Form1.resources
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\_1234.Properties.Resources.resources
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\1234.csproj.GenerateResource.cache
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\1234.csproj.CoreCompileInputs.cache
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\1234.exe
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\1234.pdb
+C:\Users\sergey.markevich\source\repos\1234\1234\obj\Debug\1234.csprojAssemblyReference.cache
